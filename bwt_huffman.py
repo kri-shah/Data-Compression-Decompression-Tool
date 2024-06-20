@@ -16,7 +16,6 @@ except:
 
 termchar = 17 # you can assume the byte 17 does not appear in the input file
 
-#probably gonna drop this hw 😭😭😭
 
 
 #wrap all huffman stuff into a class
